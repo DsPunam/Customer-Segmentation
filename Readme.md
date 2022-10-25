@@ -1,5 +1,5 @@
-## Breast Cancer Prediction
-I have read data from an excel file and predicted the breast cancer among them.
+## Customer Segmentation
+I have read data from an excel file and predicted the data among them.
 
 ### Libraries Used:
 - Pandas
